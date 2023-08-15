@@ -2,4 +2,4 @@
 
 
 
-The goal of developing such a system is to reduce the errors that occur in the manual system where it was very difficult to store record. The whole system is managed by the administrator who has all the privilege to edit or modify any school member info. A student can view his/her details by logging with their details. It is easy to use and also secure.
+Designed and implemented a secure and user-friendly system to address error-prone manual processes, allowing efficient record storage and management; empowered administrators with privileged access, while ensuring students could securely view their information, resulting in enhanced usability and data integrity."
